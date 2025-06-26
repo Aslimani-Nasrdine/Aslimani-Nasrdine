@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### 👨‍🎓 About Me:
-- 🎓 I'm a 3rd year university student majoring in **Mathematics & Computer Science**.
+- 🎓 I'm a 3rd year university student majoring in **Computer Science & Artificial Intelligence**.
 - 🌍 I’m from **Morocco** 🇲🇦, and I’m 21 years old.
 - 💡 I’m passionate about tech, problem-solving, and continuous learning.
 - 🤝 I love working in teams and collaborating on meaningful projects.
@@ -52,18 +52,16 @@
 ### 🔧 Tools & Technologies:
 
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/iso_c/iso_c-ar21.svg"></code>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="90px"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" width="90px"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" width="90px"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="90px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Programming" width="50px"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="Bash" width="90px"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle SQL" width="90px"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" width="90px"/>
 </p>
-
 
 ---
 
