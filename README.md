@@ -59,7 +59,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/iso_c/iso_c-ar21.svg"></code>
 </p>
+
 
 ---
 
