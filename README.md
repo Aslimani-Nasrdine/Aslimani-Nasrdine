@@ -78,9 +78,10 @@
 
 <!-- Replace with your own project links -->
 <p align="center">
-  <a href="https://github.com/your-github-username/your-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-project" />
-  </a>
+  <a href="https://github.com/Aslimani-Nasrdine/memory-card-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aslimani-Nasrdine&repo=memory-card-game" />
+</a>
+
 </p>
 
 <!-- This readme was customized for Aslimani Nasr-dine -->
